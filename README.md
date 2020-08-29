@@ -1,4 +1,4 @@
-# Math-Arts
+# Pi.Arts
 This is a hobby. Current ones include the following.
 
 ![](Images/butterfly.png)
