@@ -1,8 +1,8 @@
 # Pi.Arts
-This is a hobby. Current ones include the following.
+This is a hobby. Chapter 1 includes the following.
 
-![](Images/butterfly.png)
-![](Images/bangladesh_flag.png)
-![](Images/lorentz.png)
+![](chapter_1/butterfly.png)
+![](chapter_1/bangladesh_flag.png)
+![](chapter_1/lorentz.png)
 
 I will keep this updated. Check back often.
